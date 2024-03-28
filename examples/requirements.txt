@@ -1,2 +1,3 @@
 streamlit
 streamlit-l7vp
+pandas
