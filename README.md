@@ -17,7 +17,6 @@ pip install streamlit-l7vp
 
 ```py
 import streamlit as st
-from pyl7vp import L7VP
 from streamlit_l7vp import l7vp_static
 import pandas as pd
 
@@ -58,6 +57,8 @@ git clone https://github.com/lvisei/streamlit-l7vp.git
 ### Install python module
 
 ```sh
+cd bindings/pyl7vp
+
 # dev install from folder containing setup.py
 pip install -e .
 ```
