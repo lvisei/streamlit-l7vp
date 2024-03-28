@@ -18,7 +18,6 @@ jobs:
 
       - name: Install dependencies
         run: |
-          cd bindings/pyl7vp
           python -m pip install --upgrade pip
           pip install -e .
           pip install flake8 pytest
