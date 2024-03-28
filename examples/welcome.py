@@ -1,5 +1,5 @@
 import streamlit as st
-from streamlit-l7vp import l7vp_static
+from streamlit_l7vp import l7vp_static
 
 st.set_page_config(page_title="streamlit-l7vp: AntV L7VP for Streamlit!", page_icon="🌍", layout="wide")
 
