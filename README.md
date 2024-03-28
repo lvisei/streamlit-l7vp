@@ -2,7 +2,7 @@
 
 [L7VP](https://github.com/antvis/L7VP) is an geospatial intelligent visual analysis and application development tools.
 
-This project was created to allow us to render [L7VP](https://github.com/antvis/L7VP) maps in streamlit.🌍 [Live Demo](https://location-insight.streamlit.app) 🌍
+This project was created to allow us to render [L7VP](https://github.com/antvis/L7VP) maps in streamlit.🌍 [Live Demo]() 🌍
 
 [![Latest Stable Version](https://img.shields.io/pypi/v/streamlit-l7vp.svg)](https://pypi.python.org/pypi/streamlit-l7vp)
 [![Test Status](https://github.com/lvisei/streamlit-l7vp/workflows/test/badge.svg)](https://github.com/lvisei/streamlit-l7vp/actions?query=workflow:test)
