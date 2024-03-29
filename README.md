@@ -47,6 +47,10 @@ l7vp_static(l7vp_map)
 - width: Fixed pixel width of the map. Optional, by default the map width adjusts to the streamlit layout.
 - read_only: Disables the side panel for map customization, default False.
 
+### L7VP API
+
+L7VP API see the [pyl7vp docs](https://github.com/antvis/L7VP/tree/master/bindings/pyl7vp#user-guide).
+
 ## Local Development
 
 ### Clone code
